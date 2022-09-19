@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsX</string>
+    <string name="title_home">Home</string>
+    <string name="title_latest_news">Latest News</string>
+    <string name="title_bookmark">Bookmark</string>
+    <string name="title_settings">Settings</string>
+</resources>
